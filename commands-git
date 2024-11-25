@@ -1,0 +1,7 @@
+git clone https//:
+
+git add <"file">
+
+git comit -m
+
+git push
